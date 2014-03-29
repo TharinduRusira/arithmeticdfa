@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>lk.ac.mrt.cse.cs3512</groupId>
+  <artifactId>arithmeticdfa</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <description>A deterministic finite automata to accept simple arithmetic expressions.
+
+Authors: 
+Tharindu Rusira 100277E
+Milinda Fernando 100131D</description>
+  <name>Arithmetic DFA</name>
+  <inceptionYear>2014</inceptionYear>
+</project>
