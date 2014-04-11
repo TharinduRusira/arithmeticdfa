@@ -19,7 +19,7 @@ trans(q3,X,start) :- is_plus(X);is_minus(X);is_multi(X);is_division(X).
 % Symbol declarations
 
 is_digit(X):-
-	X='0';X='1';X='2';X='3';X='4';X='5';X='6';X='7';X='8';X='9'.
+	X=0;X=1;X=2;X=3;X=4;X=5;X=6;X=7;X=8;X=9.
 
 is_plus(X):- X = '+'.
 is_minus(X):- X = '-'.
