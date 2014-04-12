@@ -27,4 +27,4 @@ is_multi(X):- X = '*'.
 is_division(X):- X = '/'.
 is_decimal(X) :- X='.'.
 
-	.
+
